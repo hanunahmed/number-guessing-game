@@ -1,10 +1,10 @@
 # number-guessing-game
 
-# install dependencies
+## install dependencies
 npm install
 
-# link the CLI command locally
+## link the CLI command locally
 npm link
 
-# start the game
+## start the game
 guess
