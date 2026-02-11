@@ -9,5 +9,5 @@ npm link
 ## start the game
 guess
 
-## project page url
-https://github.com/hanunahmed/number-guessing-game.git
+## project page url[
+https://roadmap.sh/projects/number-guessing-game
