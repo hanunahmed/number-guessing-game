@@ -8,3 +8,6 @@ npm link
 
 ## start the game
 guess
+
+## project page url
+https://github.com/hanunahmed/number-guessing-game.git
